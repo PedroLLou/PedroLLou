@@ -1,29 +1,25 @@
 <!--
   Profile README for PedroLLou
-  Tip: the project tech badges are illustrative — tweak them to match each stack.
-  Theme accent color used across the page: #6EE7F9
+  Banner/footer are self-hosted SVGs in /assets (reliable, no external service).
+  Theme accent color: #6EE7F9
 -->
 
 <div align="center">
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Louren%C3%A7oni%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20%26%20AI%20%E2%80%A2%20FiveM&descAlignY=55&descSize=18&v=2" alt="Pedro Lourenconi Lima" />
-
-<!-- Typing animation -->
-<a href="https://github.com/PedroLLou">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Pedro!+%F0%9F%91%8B;Full-Stack+Developer;Founder+%26+Developer+%40+Didata;Web+%E2%80%A2+SaaS+%E2%80%A2+AI+%E2%80%A2+Automation;Always+building%2C+always+learning" alt="Typing SVG" />
-</a>
+<!-- Self-hosted banner -->
+<img width="100%" src="./assets/header.svg" alt="Pedro Lourenconi Lima - Full-Stack Developer, SaaS & AI, FiveM" />
 
 <br/><br/>
 
 <!-- Quick badges -->
 <img src="https://komarev.com/ghpvc/?username=PedroLLou&label=Profile%20views&color=6EE7F9&style=flat-square" alt="profile views" />
 <a href="https://www.linkedin.com/in/pedrolourenconilima/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://usedidata.com.br"><img src="https://img.shields.io/badge/Didata-Live-6EE7F9?style=flat-square&logo=googlechrome&logoColor=black" alt="Didata" /></a>
 <a href="mailto:pedroloulima@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+---
 
 ## 👨‍💻 About Me
 
@@ -38,7 +34,7 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+---
 
 ## 🧰 Tech Stack
 
@@ -55,7 +51,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+---
 
 ## 🚀 Featured Projects
 
@@ -113,7 +109,7 @@ My graduation final project: a system to manage and evaluate the competencies of
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+---
 
 ## 🤝 Let's Connect
 
@@ -138,7 +134,7 @@ My graduation final project: a system to manage and evaluate the competencies of
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&v=2" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="footer" />
 
 <sub>⭐️ Thanks for stopping by!</sub>
 
