@@ -7,11 +7,11 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Louren%C3%A7oni%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20FiveM&descAlignY=55&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Louren%C3%A7oni%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20%26%20AI%20%E2%80%A2%20FiveM&descAlignY=55&descSize=18" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://github.com/PedroLLou">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pedro!+%F0%9F%91%8B;Full-Stack+Developer;TypeScript+%7C+React+%7C+Next.js+%7C+Lua;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6EE7F9&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Pedro!+%F0%9F%91%8B;Full-Stack+Developer;Founder+%26+Developer+%40+Didata;Web+%E2%80%A2+SaaS+%E2%80%A2+AI+%E2%80%A2+Automation;Always+building%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,11 +29,11 @@
 
 <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f6e-4dca-9f5b-eb9d4b94a3c7.gif" alt="coding" />
 
-- 🎓 Tech student and full-stack developer in the making
-- 💻 I live in the **TypeScript** world — **React** & **Next.js** on the daily
-- 🌙 I craft immersive **FiveM** experiences with **Lua**
-- 🤝 I ship real products: websites, dashboards & game servers
-- 🌱 Leveling up my skills every single day
+- 👋 Full-stack developer focused on **web apps, SaaS, automation & AI-powered solutions**
+- 🚀 Founder & developer of **Didata** — an AI platform that helps teachers work faster
+- 💻 I build with **TypeScript**, **React**, **Next.js** & **Node.js**
+- 🌙 I also craft immersive **FiveM** experiences with **Lua**
+- 🎯 I love connecting technology to real-world problems with clean, well-structured products
 - 📫 Let's talk: **pedroloulima@gmail.com**
 
 <br clear="both" />
@@ -46,6 +46,13 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,lua,react,nextjs,nodejs,tailwind,html,css,git,github,vscode&perline=6" alt="tech stack" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration" />
+<img src="https://img.shields.io/badge/SaaS-0EA5E9?style=for-the-badge&logoColor=white" alt="SaaS" />
+<img src="https://img.shields.io/badge/Automation-22C55E?style=for-the-badge&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/REST%20APIs-EF4444?style=for-the-badge&logoColor=white" alt="REST APIs" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
@@ -56,13 +63,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Didata &nbsp;<kbd>🔒 Private</kbd>
+### 🌐 Didata &nbsp;<kbd>👑 Founder</kbd>
 
-One of my own products — a web platform I designed and built **entirely on my own**, end-to-end from the first layout to deploy, with a clean and fully responsive UI.
+**An AI platform for teachers.** I founded and built Didata end-to-end — it helps teachers create lessons, activities, exams, grading and per-class reports faster, powered by AI.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="AI" />
 <br/>
 <a href="https://usedidata.com.br"><img src="https://img.shields.io/badge/🌐%20Live%20Site-usedidata.com.br-6EE7F9?style=flat-square&logoColor=white" alt="Live Site" /></a>
 
@@ -117,6 +124,9 @@ My graduation final project: a system to manage and evaluate the competencies of
 </a>
 <a href="https://instagram.com/pedroll0">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://usedidata.com.br">
+  <img src="https://img.shields.io/badge/Didata-6EE7F9?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Didata" />
 </a>
 <a href="mailto:pedroloulima@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
