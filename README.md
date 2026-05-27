@@ -58,11 +58,13 @@
 
 ### 🌐 Didata &nbsp;<kbd>🔒 Private</kbd>
 
-One of my own projects — a website I designed and built **entirely on my own**, handled end-to-end from the first layout to deploy, with a clean, fully responsive UI.
+One of my own products — a web platform I designed and built **entirely on my own**, end-to-end from the first layout to deploy, with a clean and fully responsive UI.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<br/>
+<a href="https://usedidata.com.br"><img src="https://img.shields.io/badge/🌐%20Live%20Site-usedidata.com.br-6EE7F9?style=flat-square&logoColor=white" alt="Live Site" /></a>
 
 </td>
 <td width="50%" valign="top">
