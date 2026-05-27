@@ -26,7 +26,7 @@
 <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f6e-4dca-9f5b-eb9d4b94a3c7.gif" alt="coding" />
 
 - 👋 Full-stack developer focused on **web apps, SaaS, automation & AI-powered solutions**
-- 🚀 Founder & developer of **Didata** — an AI platform that helps teachers work faster
+- 🚀 Founder & developer of **Didata** - an AI platform that helps teachers work faster
 - 💻 I build with **TypeScript**, **React**, **Next.js** & **Node.js**
 - 🌙 I also craft immersive **FiveM** experiences with **Lua**
 - 🎯 I love connecting technology to real-world problems with clean, well-structured products
