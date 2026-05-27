@@ -58,7 +58,7 @@
 
 ### 🌐 Didata &nbsp;<kbd>🔒 Private</kbd>
 
-A complete institutional website I designed and built **100% on my own** for the client **Didata** — from the first layout to deploy, with a clean, fully responsive UI and smooth user experience.
+One of my own projects — a website I designed and built **entirely on my own**, handled end-to-end from the first layout to deploy, with a clean, fully responsive UI.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
