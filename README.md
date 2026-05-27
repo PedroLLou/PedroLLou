@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Louren%C3%A7oni%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20%26%20AI%20%E2%80%A2%20FiveM&descAlignY=55&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Louren%C3%A7oni%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20%26%20AI%20%E2%80%A2%20FiveM&descAlignY=55&descSize=18&v=2" alt="Pedro Lourenconi Lima" />
 
 <!-- Typing animation -->
 <a href="https://github.com/PedroLLou">
@@ -138,7 +138,7 @@ My graduation final project: a system to manage and evaluate the competencies of
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&v=2" alt="footer" />
 
 <sub>⭐️ Thanks for stopping by!</sub>
 
