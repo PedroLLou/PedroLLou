@@ -1,20 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pedro Lourençoni Lima">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pedro Lourençoni Lima · Full-Stack Developer · Founder at Kyber Tech">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1120"/>
-      <stop offset="55%" stop-color="#0a2233"/>
-      <stop offset="100%" stop-color="#062b31"/>
+      <stop offset="0%" stop-color="#05070f"/>
+      <stop offset="52%" stop-color="#081826"/>
+      <stop offset="100%" stop-color="#04222a"/>
     </linearGradient>
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#6EE7F9"/>
       <stop offset="50%" stop-color="#3B82F6"/>
       <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
+    <linearGradient id="crystal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a5f3fc"/>
+      <stop offset="55%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="20"/></filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.4" cy="1.4" r="1.4" fill="#5eead4" opacity="0.06"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="300"/></clipPath>
   </defs>
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <rect width="1200" height="6" fill="url(#accent)"/>
-  <rect y="274" width="1200" height="6" fill="url(#accent)"/>
-  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#ffffff" letter-spacing="1">Pedro Lourençoni Lima</text>
-  <text x="600" y="182" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#6EE7F9">Full-Stack Developer &#8226; SaaS &amp; AI &#8226; FiveM</text>
-  <text x="600" y="224" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#94a3b8">Founder &amp; Developer @ Didata</text>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <circle r="210" cx="230" cy="90" fill="url(#orbCyan)" filter="url(#soft)">
+      <animate attributeName="cx" values="230;330;230" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;140;90" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="240" cx="1000" cy="230" fill="url(#orbViolet)" filter="url(#soft)">
+      <animate attributeName="cx" values="1000;890;1000" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="230;175;230" dur="21s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="170" cx="640" cy="300" fill="url(#orbBlue)" filter="url(#soft)">
+      <animate attributeName="cy" values="300;250;300" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <g fill="#a5f3fc">
+      <circle cx="150" cy="58" r="1.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="68" r="1.6"><animate attributeName="opacity" values="0.9;0.15;0.9" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="985" cy="44" r="1.3"><animate attributeName="opacity" values="0.2;0.85;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="92" cy="232" r="1.3"><animate attributeName="opacity" values="0.85;0.2;0.85" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1132" cy="250" r="1.5"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(600,72)" filter="url(#glow)">
+      <polygon points="0,-30 22,0 0,34 -22,0" fill="url(#crystal)"/>
+      <polygon points="0,-30 22,0 -22,0" fill="#ffffff" opacity="0.16"/>
+      <polygon points="0,34 22,0 0,0 -22,0" fill="#0b1220" opacity="0.15"/>
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+    <text x="600" y="168" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="0.5">Pedro Lourençoni Lima</text>
+    <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#6EE7F9">
+      <text x="600" y="210" opacity="0">Full-Stack Developer<animate attributeName="opacity" dur="12s" repeatCount="indefinite" begin="0s" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25"/></text>
+      <text x="600" y="210" opacity="0">Founder @ Kyber Tech<animate attributeName="opacity" dur="12s" repeatCount="indefinite" begin="3s" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25"/></text>
+      <text x="600" y="210" opacity="0">SaaS &amp; Applied AI<animate attributeName="opacity" dur="12s" repeatCount="indefinite" begin="6s" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25"/></text>
+      <text x="600" y="210" opacity="0">Automation &amp; MCP<animate attributeName="opacity" dur="12s" repeatCount="indefinite" begin="9s" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25"/></text>
+    </g>
+    <rect x="475" y="231" width="250" height="2" fill="url(#accent)" opacity="0.7"/>
+    <circle cy="232" r="3.5" fill="#a5f3fc" filter="url(#glow)"><animate attributeName="cx" values="475;725;475" dur="6s" repeatCount="indefinite"/></circle>
+    <text x="600" y="262" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#94a3b8" letter-spacing="1.5">React · Next.js · Node · Supabase · TypeScript · AI</text>
+    <rect width="1200" height="3" fill="url(#accent)"/>
+    <rect y="297" width="1200" height="3" fill="url(#accent)"/>
+  </g>
 </svg>
