@@ -29,7 +29,7 @@ Full-stack developer from Goiânia, Brazil, building products where the web meet
 - 🤖 Into applied AI and agentic tooling: I built an internal CRM with its **own MCP server** to run the business by chat
 - 💻 Daily stack: TypeScript, React, Next.js, Node.js, Supabase and PostgreSQL
 - 🎮 Off-hours: immersive **FiveM** roleplay worlds in Lua
-- 📍 Goiânia, GO · open to remote
+- 📍 Goiânia, GO - Brazil · open to remote
 
 <br/>
 
