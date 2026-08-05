@@ -10,6 +10,7 @@
 
 <br/><br/>
 
+<a href="https://www.pedrolou.dev"><img src="https://img.shields.io/badge/Portfolio-pedrolou.dev-F2EADC?style=flat-square&labelColor=0b1220&logo=googlechrome&logoColor=F2EADC" alt="Portfolio" /></a>
 <a href="https://somoskyber.com.br"><img src="https://img.shields.io/badge/Kyber_Tech-somoskyber.com.br-6EE7F9?style=flat-square&labelColor=0b1220&logo=googlechrome&logoColor=6EE7F9" alt="Kyber Tech" /></a>
 <a href="https://usedidata.com.br"><img src="https://img.shields.io/badge/Didata-live-22C55E?style=flat-square&labelColor=0b1220&logo=googlechrome&logoColor=22C55E" alt="Didata" /></a>
 <a href="https://www.linkedin.com/in/pedrolourenconilima/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&labelColor=0b1220&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -29,6 +30,7 @@ Full-stack developer from Goiânia, Brazil, building products where the web meet
 - 🤖 Into applied AI and agentic tooling: I built an internal CRM with its **own MCP server** to run the business by chat
 - 💻 Daily stack: TypeScript, React, Next.js, Node.js, Supabase and PostgreSQL
 - 🎮 Off-hours: immersive **FiveM** roleplay worlds in Lua
+- 📖 Case studies and the full picture: **[pedrolou.dev](https://www.pedrolou.dev)**
 - 📍 Goiânia, GO - Brazil · open to remote
 
 <br/>
@@ -47,7 +49,7 @@ Full-stack developer from Goiânia, Brazil, building products where the web meet
 
 ### 🌐 Didata &nbsp;<kbd>🚀 product</kbd>
 
-**AI platform for teachers.** Kyber Tech's flagship, live in production. Generates lessons, activities, exams, photo-based grading and per-class reports with AI (RAG + vision).
+**AI platform for teachers.** Kyber Tech's flagship, live in production with a free and a paid plan. Generates lessons, activities, exams, photo-based grading and per-class reports with AI (RAG + vision).
 
 <img src="https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Prisma-0b1220?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
@@ -60,7 +62,9 @@ Full-stack developer from Goiânia, Brazil, building products where the web meet
 
 ### 🤖 Kyber CRM &nbsp;<kbd>🔒 private</kbd>
 
-Internal business platform with **its own MCP server (39 tools)** to run sales, finance, proposals and support by chat with AI. Multi-user with Postgres **Row Level Security** and Realtime.
+Internal business platform with **its own MCP server (70 tools)** to run sales, finance, proposals and support by chat with AI. Multi-user with Postgres **Row Level Security** and Realtime.
+
+<a href="https://www.pedrolou.dev/projetos/kyber-crm"><img src="https://img.shields.io/badge/case_study-pedrolou.dev-F2EADC?style=flat-square&labelColor=0b1220" alt="Case study" /></a>
 
 <img src="https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Supabase-0b1220?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
