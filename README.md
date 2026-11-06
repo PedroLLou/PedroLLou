@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Pedro 👋</h1>
+<h1 align="center">Hi, I'm Pedro 👋</h1>
 <p align="center"><strong>Full-stack developer · Founder of Kyber Tech</strong><br>Web applications, integrations and applied AI. Based in Goiânia, Brazil.</p>
 
 <p align="center">
@@ -19,11 +19,17 @@ I build products from the interface to the backend. At **[Kyber Tech](https://so
 
 ![Node.js](assets/tech/nodejs.svg) ![NestJS](assets/tech/nestjs.svg) ![Python](assets/tech/python.svg) ![PostgreSQL](assets/tech/postgresql.svg) ![Supabase](assets/tech/supabase.svg) ![Prisma](assets/tech/prisma.svg)
 
-**AI & tools**
+**AI & agent engineering**
 
-![OpenAI](assets/tech/openai.svg) ![Anthropic](assets/tech/anthropic.svg) ![MCP](assets/tech/mcp.svg) ![Git](assets/tech/git.svg)
+![Agent orchestration](assets/tech/orchestration.svg) ![MCP servers](assets/tech/mcp-servers.svg) ![Context engineering](assets/tech/context.svg) ![RAG](assets/tech/rag.svg) ![Vision models](assets/tech/vision.svg)
 
-I use RAG, vision models and MCP to connect AI to application data and workflows.
+![OpenAI](assets/tech/openai.svg) ![Anthropic](assets/tech/anthropic.svg)
+
+- **Agent orchestration:** coordinating Codex and Claude across scoped implementation, review and validation tasks, with explicit handoffs.
+- **Context & tooling:** developing custom MCP integrations, reusable agent skills and shared memory integrations to preserve context across sessions.
+- **Applied AI:** connecting retrieval and vision models to product workflows, with human review where decisions need it ? from business tools in Kyber CRM to teacher-reviewed assessments in Didata.
+
+**Development workflow:** Git, Codex and Claude Code.
 
 ## 🚀 Main projects
 
