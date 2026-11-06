@@ -1,64 +1,48 @@
-<a href="https://www.pedrolou.dev">
-  <img src="./assets/header.svg" width="100%" alt="Pedro Lourençoni Lima — Full-stack developer. Web products, integrations and applied AI. Explore my portfolio." />
-</a>
+﻿# Pedro Lourençoni Lima
 
-<p align="center">
-  <a href="https://www.pedrolou.dev"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#public-code">Public code</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/pedrolourenconilima/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:pedroloulima@gmail.com">Email</a>
-</p>
+Full-stack developer from Goiânia, Brazil, and founder of **[Kyber Tech](https://somoskyber.com.br)**. I build web applications, integrate systems and develop AI tools for everyday work.
 
-## Hi, I'm Pedro.
+[Portfolio](https://www.pedrolou.dev) · [LinkedIn](https://www.linkedin.com/in/pedrolourenconilima/) · [Email](mailto:pedroloulima@gmail.com)
 
-I'm a full-stack developer from Goiânia, Brazil, and the founder of **[Kyber Tech](https://somoskyber.com.br)**. I build web products, connect systems and apply AI to practical problems.
-
-My work spans the interface, the API and the operation behind them: education software at **Didata**, business workflows at **Kyber**, and developer tools I build to make everyday work easier.
-
-For the story behind the code, visit **[my portfolio](https://www.pedrolou.dev)** — available in Portuguese and English.
-
-## Selected work
+## Projects
 
 ### [Didata](https://usedidata.com.br)
-AI-assisted tools for teachers: lesson planning, activities, exams and photo-based assessment workflows. Teachers review the output; for written answers, AI transcribes and the teacher assigns the grade.
+A platform that helps teachers prepare lessons, activities and exams, and review student answers from photos. Teachers check the results before using them. For written answers, AI transcribes the response and the teacher assigns the grade.
+
+I work across the product, interface, backend and AI integrations.
 
 **Next.js · TypeScript · Prisma · AI**
-[Try the product](https://usedidata.com.br) · [Read the case study](https://www.pedrolou.dev/projetos/didata)
+
+[Use Didata](https://usedidata.com.br) · [Case study](https://www.pedrolou.dev/projetos/didata)
 
 ### [Kyber CRM](https://www.pedrolou.dev/projetos/kyber-crm)
-An internal platform connecting sales, proposals, delivery and finance. Its MCP server lets AI tools work with the same business workflows through conversation.
+The internal system I built to manage Kyber's sales pipeline, proposals, project delivery and finances in one place. A custom MCP server connects AI assistants to these workflows, so the same operations can also be performed through conversation.
+
+I designed the architecture and developed the frontend, backend and integrations. Source code is private.
 
 **Next.js · PostgreSQL · Supabase · MCP**
-[Read the case study](https://www.pedrolou.dev/projetos/kyber-crm) · Private source
 
-### [Brava.gg](https://www.pedrolou.dev/projetos/brava)
-A team-built FiveM roleplay project connecting a game server to the web. My work includes the dashboard, API and integrations for players, economy and operational alerts.
+[Case study](https://www.pedrolou.dev/projetos/kyber-crm)
 
-**React · TypeScript · Lua · MariaDB**
-[Read the case study](https://www.pedrolou.dev/projetos/brava) · Private source
+### [Codex Dictation](https://github.com/PedroLLou/codex-dictation)
+An experimental Windows app that turns speech into text using the Codex voice service. Built as an independent companion for T3 Code, it lets you review the transcription and optionally insert it into the original text field. Includes Portuguese and English interfaces.
 
-## Public code
+### [Humanizador](https://github.com/PedroLLou/humanizador)
+An open agent skill for making AI-generated Portuguese sound more natural. It identifies repetitive wording and formulaic writing while preserving the original facts, meaning and author's voice. Written in Markdown for agents that support skills.
 
-| Project | What you'll find |
-| :--- | :--- |
-| [Codex Dictation](https://github.com/PedroLLou/codex-dictation) | Experimental Windows voice dictation companion for T3 Code, with Portuguese and English UI. |
-| [Humanizador](https://github.com/PedroLLou/humanizador) | An agent skill for revising AI-sounding Portuguese while preserving meaning and the writer's voice. |
-| [Pulso](https://github.com/PedroLLou/pulso) | Academic mobile project for managing freelance clients, projects, support and renewal dates. Built with React Native and Expo. |
-| [Skills Management](https://github.com/PedroLLou/tcc20261) | Graduation project for managing and evaluating software professionals' competencies. |
-| [Criptolib](https://github.com/PedroLLou/criptografia-aplicada-atividade4) | Academic Python library exploring modular arithmetic and number theory. |
+### [Pulso](https://github.com/PedroLLou/pulso)
+An academic mobile app for freelancers to organize clients, projects and support after delivering a website. It tracks tasks, deadlines, renewal dates and service history, with a Node.js API and SQLite storage.
 
-## What I work with
+**React Native · Expo · Node.js · SQLite**
 
-| Area | Tools & technologies |
-| :--- | :--- |
-| Interfaces | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
-| APIs & data | Node.js, Python, PostgreSQL, Supabase, Prisma |
-| Applied AI | OpenAI, Anthropic, RAG, vision, MCP |
-| Delivery | Git, GitHub, Vitest, Playwright, CI/CD, Vercel |
-| Beyond the web | Lua, FiveM, React Native, Expo |
+### [Feedback Management — Graduation project](https://github.com/PedroLLou/tcc20261)
+A system for managing feedback and evaluating software professionals' competencies. The project includes a React interface and a NestJS API, with access permissions, feedback approval and an audit trail.
 
----
+**React · TypeScript · NestJS · PostgreSQL**
 
-**Have a project or opportunity in mind?**
-[Email me](mailto:pedroloulima@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/pedrolourenconilima/) · [Explore Kyber Tech](https://somoskyber.com.br)
+### [Criptolib](https://github.com/PedroLLou/criptografia-aplicada-atividade4)
+An academic Python library for modular arithmetic and number theory. My contribution implements the Chinese Remainder Theorem: validating the moduli and finding a number that satisfies a set of congruences.
+
+## Technologies
+
+TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase and Prisma. For AI integrations, I work with OpenAI, Anthropic, RAG and MCP.
