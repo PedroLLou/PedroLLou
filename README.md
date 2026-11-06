@@ -1,150 +1,64 @@
-<!--
-  Profile README for PedroLLou
-  Custom self-hosted SVGs in /assets (no external services): header, stack, footer.
-  Brand accent: #6EE7F9 on deep navy. Keep it distinctive, keep it yours.
--->
+<a href="https://www.pedrolou.dev">
+  <img src="./assets/header.svg" width="100%" alt="Pedro Lourençoni Lima — Full-stack developer. Web products, integrations and applied AI. Explore my portfolio." />
+</a>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.pedrolou.dev"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#public-code">Public code</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/pedrolourenconilima/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:pedroloulima@gmail.com">Email</a>
+</p>
 
-<img width="100%" src="./assets/header.svg" alt="Pedro Lourençoni Lima · Full-Stack Developer · Founder at Kyber Tech" />
+## Hi, I'm Pedro.
 
-<br/><br/>
+I'm a full-stack developer from Goiânia, Brazil, and the founder of **[Kyber Tech](https://somoskyber.com.br)**. I build web products, connect systems and apply AI to practical problems.
 
-<a href="https://www.pedrolou.dev"><img src="https://img.shields.io/badge/Portfolio-pedrolou.dev-F2EADC?style=flat-square&labelColor=0b1220&logo=googlechrome&logoColor=F2EADC" alt="Portfolio" /></a>
-<a href="https://somoskyber.com.br"><img src="https://img.shields.io/badge/Kyber_Tech-somoskyber.com.br-6EE7F9?style=flat-square&labelColor=0b1220&logo=googlechrome&logoColor=6EE7F9" alt="Kyber Tech" /></a>
-<a href="https://usedidata.com.br"><img src="https://img.shields.io/badge/Didata-live-22C55E?style=flat-square&labelColor=0b1220&logo=googlechrome&logoColor=22C55E" alt="Didata" /></a>
-<a href="https://www.linkedin.com/in/pedrolourenconilima/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&labelColor=0b1220&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:pedroloulima@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-EA4335?style=flat-square&labelColor=0b1220&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=PedroLLou&label=views&color=6EE7F9&style=flat-square" alt="views" />
+My work spans the interface, the API and the operation behind them: education software at **Didata**, business workflows at **Kyber**, and developer tools I build to make everyday work easier.
 
-</div>
+For the story behind the code, visit **[my portfolio](https://www.pedrolou.dev)** — available in Portuguese and English.
 
-<br/>
+## Selected work
 
-## 👤 `whoami`
+### [Didata](https://usedidata.com.br)
+AI-assisted tools for teachers: lesson planning, activities, exams and photo-based assessment workflows. Teachers review the output; for written answers, AI transcribes and the teacher assigns the grade.
 
-Full-stack developer from Goiânia, Brazil, building products where the web meets applied AI.
+**Next.js · TypeScript · Prisma · AI**
+[Try the product](https://usedidata.com.br) · [Read the case study](https://www.pedrolou.dev/projetos/didata)
 
-- 🏢 Founder of **[Kyber Tech](https://somoskyber.com.br)**: my software company (websites, systems, automation and AI)
-- 🚀 I ship **[Didata](https://usedidata.com.br)**, an AI platform that helps teachers work faster (Kyber's flagship, live in production)
-- 🤖 Into applied AI and agentic tooling: I built an internal CRM with its **own MCP server** to run the business by chat
-- 💻 Daily stack: TypeScript, React, Next.js, Node.js, Supabase and PostgreSQL
-- 🎮 Off-hours: immersive **FiveM** roleplay worlds in Lua
-- 📖 Case studies and the full picture: **[pedrolou.dev](https://www.pedrolou.dev)**
-- 📍 Goiânia, GO - Brazil · open to remote
+### [Kyber CRM](https://www.pedrolou.dev/projetos/kyber-crm)
+An internal platform connecting sales, proposals, delivery and finance. Its MCP server lets AI tools work with the same business workflows through conversation.
 
-<br/>
+**Next.js · PostgreSQL · Supabase · MCP**
+[Read the case study](https://www.pedrolou.dev/projetos/kyber-crm) · Private source
 
-## 🧰 `stack`
+### [Brava.gg](https://www.pedrolou.dev/projetos/brava)
+A team-built FiveM roleplay project connecting a game server to the web. My work includes the dashboard, API and integrations for players, economy and operational alerts.
 
-<img width="100%" src="./assets/stack.svg" alt="Languages: TypeScript, JavaScript, Python, Lua, SQL. Frontend: React, Next.js, Tailwind. Backend: Node.js, NestJS, REST. Data and cloud: PostgreSQL, Supabase, Prisma, Vercel. AI and automation: OpenAI, Anthropic, RAG, MCP, Vision." />
+**React · TypeScript · Lua · MariaDB**
+[Read the case study](https://www.pedrolou.dev/projetos/brava) · Private source
 
-<br/>
+## Public code
 
-## 🚀 `featured`
+| Project | What you'll find |
+| :--- | :--- |
+| [Codex Dictation](https://github.com/PedroLLou/codex-dictation) | Experimental Windows voice dictation companion for T3 Code, with Portuguese and English UI. |
+| [Humanizador](https://github.com/PedroLLou/humanizador) | An agent skill for revising AI-sounding Portuguese while preserving meaning and the writer's voice. |
+| [Pulso](https://github.com/PedroLLou/pulso) | Academic mobile project for managing freelance clients, projects, support and renewal dates. Built with React Native and Expo. |
+| [Skills Management](https://github.com/PedroLLou/tcc20261) | Graduation project for managing and evaluating software professionals' competencies. |
+| [Criptolib](https://github.com/PedroLLou/criptografia-aplicada-atividade4) | Academic Python library exploring modular arithmetic and number theory. |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## What I work with
 
-### 🌐 Didata &nbsp;<kbd>🚀 product</kbd>
+| Area | Tools & technologies |
+| :--- | :--- |
+| Interfaces | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| APIs & data | Node.js, Python, PostgreSQL, Supabase, Prisma |
+| Applied AI | OpenAI, Anthropic, RAG, vision, MCP |
+| Delivery | Git, GitHub, Vitest, Playwright, CI/CD, Vercel |
+| Beyond the web | Lua, FiveM, React Native, Expo |
 
-**AI platform for teachers.** Kyber Tech's flagship, live in production with a free and a paid plan. Generates lessons, activities, exams, photo-based grading and per-class reports with AI (RAG + vision).
+---
 
-<img src="https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Prisma-0b1220?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/AI-0b1220?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-<br/>
-<a href="https://usedidata.com.br"><img src="https://img.shields.io/badge/live-usedidata.com.br-22C55E?style=flat-square&labelColor=0b1220" alt="Live" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Kyber CRM &nbsp;<kbd>🔒 private</kbd>
-
-Internal business platform with **its own MCP server (70 tools)** to run sales, finance, proposals and support by chat with AI. Multi-user with Postgres **Row Level Security** and Realtime.
-
-<a href="https://www.pedrolou.dev/projetos/kyber-crm"><img src="https://img.shields.io/badge/case_study-pedrolou.dev-F2EADC?style=flat-square&labelColor=0b1220" alt="Case study" /></a>
-
-<img src="https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Supabase-0b1220?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-<img src="https://img.shields.io/badge/MCP-0b1220?style=flat-square&logoColor=white" alt="MCP" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Kyber Tech &nbsp;<kbd>🏢 company</kbd>
-
-**My software company.** Websites, systems, automation and AI for real clients. The site is built in Next.js and ships with an AI chatbot.
-
-<img src="https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/AI-0b1220?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-<br/>
-<a href="https://somoskyber.com.br"><img src="https://img.shields.io/badge/live-somoskyber.com.br-6EE7F9?style=flat-square&labelColor=0b1220" alt="Live" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Brava.gg &nbsp;<kbd>🔒 private</kbd>
-
-A full **FiveM roleplay server** built with a **team of 3**. Spans the whole stack: in-game scripts and a rewards system in **Lua**, plus a web dashboard and public site in **TypeScript**.
-
-<img src="https://img.shields.io/badge/Lua-0b1220?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Premium Construtora &nbsp;<kbd>client</kbd>
-
-Institutional website for a construction company (public works in Goiás), delivered through Kyber Tech. Static site with SEO landing pages, live on its own domain.
-
-<img src="https://img.shields.io/badge/HTML5-0b1220?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/SEO-0b1220?style=flat-square&logoColor=white" alt="SEO" />
-<br/>
-<a href="https://www.premiumconstrutora.com.br"><img src="https://img.shields.io/badge/live-premiumconstrutora.com.br-6EE7F9?style=flat-square&labelColor=0b1220" alt="Live" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 TCC: Skills Management
-
-My graduation final project: a system to manage and evaluate the competencies of software professionals.
-
-<img src="https://img.shields.io/badge/NestJS-0b1220?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-<img src="https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<br/>
-<a href="https://github.com/PedroLLou/tcc20261"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📫 `connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pedrolourenconilima/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://somoskyber.com.br"><img src="https://img.shields.io/badge/Kyber_Tech-0b1220?style=for-the-badge&logo=googlechrome&logoColor=6EE7F9" alt="Kyber Tech" /></a>
-<a href="https://instagram.com/pedroll0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:pedroloulima@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="./assets/footer.svg" alt="footer" />
-
-<sub>⭐ Thanks for stopping by</sub>
-
-</div>
+**Have a project or opportunity in mind?**
+[Email me](mailto:pedroloulima@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/pedrolourenconilima/) · [Explore Kyber Tech](https://somoskyber.com.br)
