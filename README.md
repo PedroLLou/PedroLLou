@@ -1,48 +1,38 @@
-﻿# Pedro Lourençoni Lima
+﻿<h1 align="center">Hi, I'm Pedro 👋</h1>
+<p align="center"><strong>Full-stack developer · Founder of Kyber Tech</strong><br>Web applications, integrations and applied AI. Based in Goiânia, Brazil.</p>
 
-Full-stack developer from Goiânia, Brazil, and founder of **[Kyber Tech](https://somoskyber.com.br)**. I build web applications, integrate systems and develop AI tools for everyday work.
+<p align="center">
+  <a href="https://www.pedrolou.dev"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/pedrolourenconilima/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:pedroloulima@gmail.com"><strong>Email</strong></a>
+</p>
 
-[Portfolio](https://www.pedrolou.dev) · [LinkedIn](https://www.linkedin.com/in/pedrolourenconilima/) · [Email](mailto:pedroloulima@gmail.com)
+I build products from the interface to the backend. At **[Kyber Tech](https://somoskyber.com.br)**, I develop websites, business systems and AI integrations. My main product is **[Didata](https://usedidata.com.br)**, a platform that helps teachers prepare materials and review assessments.
 
-## Projects
+## 🛠 Technologies
 
-### [Didata](https://usedidata.com.br)
-A platform that helps teachers prepare lessons, activities and exams, and review student answers from photos. Teachers check the results before using them. For written answers, AI transcribes the response and the teacher assigns the grade.
+**Frontend**
 
-I work across the product, interface, backend and AI integrations.
+![TypeScript](assets/tech/typescript.svg) ![JavaScript](assets/tech/javascript.svg) ![React](assets/tech/react.svg) ![Next.js](assets/tech/nextjs.svg) ![Tailwind CSS](assets/tech/tailwind.svg)
 
-**Next.js · TypeScript · Prisma · AI**
+**Backend & data**
 
-[Use Didata](https://usedidata.com.br) · [Case study](https://www.pedrolou.dev/projetos/didata)
+![Node.js](assets/tech/nodejs.svg) ![NestJS](assets/tech/nestjs.svg) ![Python](assets/tech/python.svg) ![PostgreSQL](assets/tech/postgresql.svg) ![Supabase](assets/tech/supabase.svg) ![Prisma](assets/tech/prisma.svg)
 
-### [Kyber CRM](https://www.pedrolou.dev/projetos/kyber-crm)
-The internal system I built to manage Kyber's sales pipeline, proposals, project delivery and finances in one place. A custom MCP server connects AI assistants to these workflows, so the same operations can also be performed through conversation.
+**AI & tools**
 
-I designed the architecture and developed the frontend, backend and integrations. Source code is private.
+![OpenAI](assets/tech/openai.svg) ![Anthropic](assets/tech/anthropic.svg) ![MCP](assets/tech/mcp.svg) ![Git](assets/tech/git.svg)
 
-**Next.js · PostgreSQL · Supabase · MCP**
+I use RAG, vision models and MCP to connect AI to application data and workflows.
 
-[Case study](https://www.pedrolou.dev/projetos/kyber-crm)
+## 🚀 Main projects
 
-### [Codex Dictation](https://github.com/PedroLLou/codex-dictation)
-An experimental Windows app that turns speech into text using the Codex voice service. Built as an independent companion for T3 Code, it lets you review the transcription and optionally insert it into the original text field. Includes Portuguese and English interfaces.
+| Project | What I built |
+| :--- | :--- |
+| **[Didata](https://usedidata.com.br)**<br>Education platform | Helps teachers create lesson plans, activities and exams, and review answers from photos. Teachers check the results; for written answers, AI transcribes and the teacher assigns the grade.<br><br>**My work:** product, interface, backend and AI integrations.<br>**Stack:** Next.js, TypeScript, Prisma and AI.<br>[Live product](https://usedidata.com.br) · [Case study](https://www.pedrolou.dev/projetos/didata) |
+| **[Kyber CRM](https://www.pedrolou.dev/projetos/kyber-crm)**<br>Internal business system | Connects the sales pipeline, proposals, project delivery and finances at Kyber. A custom MCP server lets AI assistants access business tools through conversation.<br><br>**My work:** architecture and full-stack development.<br>**Stack:** Next.js, PostgreSQL, Supabase and MCP.<br>[Case study](https://www.pedrolou.dev/projetos/kyber-crm) · Private source |
+| **[Feedback Management](https://github.com/PedroLLou/tcc20261)**<br>Graduation project | A system for managing feedback and evaluating software professionals' competencies, with access permissions, feedback approval and an audit trail.<br><br>**Stack:** React, TypeScript, NestJS and PostgreSQL.<br>[Source code](https://github.com/PedroLLou/tcc20261) |
 
-### [Humanizador](https://github.com/PedroLLou/humanizador)
-An open agent skill for making AI-generated Portuguese sound more natural. It identifies repetitive wording and formulaic writing while preserving the original facts, meaning and author's voice. Written in Markdown for agents that support skills.
+---
 
-### [Pulso](https://github.com/PedroLLou/pulso)
-An academic mobile app for freelancers to organize clients, projects and support after delivering a website. It tracks tasks, deadlines, renewal dates and service history, with a Node.js API and SQLite storage.
-
-**React Native · Expo · Node.js · SQLite**
-
-### [Feedback Management — Graduation project](https://github.com/PedroLLou/tcc20261)
-A system for managing feedback and evaluating software professionals' competencies. The project includes a React interface and a NestJS API, with access permissions, feedback approval and an audit trail.
-
-**React · TypeScript · NestJS · PostgreSQL**
-
-### [Criptolib](https://github.com/PedroLLou/criptografia-aplicada-atividade4)
-An academic Python library for modular arithmetic and number theory. My contribution implements the Chinese Remainder Theorem: validating the moduli and finding a number that satisfies a set of congruences.
-
-## Technologies
-
-TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase and Prisma. For AI integrations, I work with OpenAI, Anthropic, RAG and MCP.
+More about my work at **[pedrolou.dev](https://www.pedrolou.dev)**, in Portuguese and English.
